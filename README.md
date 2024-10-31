@@ -31,6 +31,6 @@ Este projeto tem como objetivo criar uma aplicação web simples para conversão
 * style.css: Arquivo de estilos CSS.
 * script.js: Arquivo JavaScript com a lógica da aplicação.
 
-# AUTORES
-* [Seu nome] - [Seu email]
+# AUTORA
+* [Karen] - [https://github.com/karenovaski]
 
