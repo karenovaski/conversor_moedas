@@ -1,5 +1,7 @@
 # CONVERSOR DE MOEDAS
 
+![gif](CEP.gif)
+
 # DESCRIÇÃO
 Este projeto tem como objetivo criar uma aplicação web simples para conversão de moedas, utilizando as tecnologias HTML5, CSS3 e JavaScript, a aplicação permitirá ao usuário inserir um valor em uma moeda específica e obter o valor convertido em outra moeda, com base em taxas de câmbio pré-definidas no código.
 
